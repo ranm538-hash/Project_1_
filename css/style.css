@@ -270,7 +270,13 @@ p{
 
 .site-footer p,
 .footer-links {
+  display:flex;
+  flex-wrap:wrap;
+  gap:24px;
+  list-style: none;
   font-size: 12px;
+  margin:0;
+  padding:0;
 }
 
 .site-footer .copyright {

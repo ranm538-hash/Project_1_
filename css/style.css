@@ -7,7 +7,7 @@
 }
 
 
-/*figma*/
+/*base styles*/
 body{
     background-color: #faf6ee;
     color:#3c2b23;
@@ -50,7 +50,7 @@ p{
 }
 
 
-/*flexbox*/
+/*header*/
 
 .site-header{
     display:flex;

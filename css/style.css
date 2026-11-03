@@ -1,6 +1,5 @@
 
-<!--reset-->
-
+/*reset*/
 *{
     margin:0;
     padding:0;
@@ -8,7 +7,7 @@
 }
 
 
-<!--figma-->
+/*figma*/
 body{
     background-color: #faf6ee;
     color:#3c2b23;
@@ -51,7 +50,7 @@ p{
 }
 
 
-<!--flexbox-->
+/*flexbox*/
 
 .site-header{
     display:flex;
